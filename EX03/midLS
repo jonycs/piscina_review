@@ -1,0 +1,5 @@
+ls -> para listar itens do diretório
+"-" ->para indicar atributos depois do LS
+m -> Separa os items com uma vírgula
+u -> Ordena os itens por tempo de acesso
+p -> Coloca barras antes dos diretórios.
